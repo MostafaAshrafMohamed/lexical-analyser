@@ -1,4 +1,4 @@
-int a, b, c;
+int a, b;
 float d, e;
 a = b = 5;
 c = 6;
